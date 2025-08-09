@@ -1,3 +1,4 @@
+Author - Mohammad Tofik (Ansh)
 # Ncell USSD Menu Simulator
 
 A C-based simulation of the Ncell USSD service menu (e.g., *17123#), featuring interactive options, submenus, and pack activation prompts.  
