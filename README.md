@@ -25,6 +25,5 @@ Pack Kinnus Crorepati Bannus
 2] Sadhain ON-UL
 ...
 Choose any number to make operation:
-
-## LICENSE
+## license
 [MIT License]
